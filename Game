@@ -67,3 +67,5 @@
 	    	     System.out.println("Invalid user input.");
 	}
 }
+
+// Good job!
